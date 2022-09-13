@@ -7,7 +7,7 @@ DESCRIPTION = 'Shhh.'
 
 # Setting up
 setup(
-    name = "swapy",
+    name = "swap",
     version = VERSION,
     author = "me",
     author_email = "spaceydot@proton.me",
