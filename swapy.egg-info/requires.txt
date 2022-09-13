@@ -1,0 +1,10 @@
+psutil
+requests
+wmi
+pycryptodome
+discord
+discord.py
+pillow
+pypiwin32
+alive-progress
+tinyaes
