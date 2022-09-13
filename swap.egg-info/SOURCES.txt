@@ -1,0 +1,8 @@
+setup.py
+swap/__init__.py
+swap/swap.py
+swap.egg-info/PKG-INFO
+swap.egg-info/SOURCES.txt
+swap.egg-info/dependency_links.txt
+swap.egg-info/requires.txt
+swap.egg-info/top_level.txt
