@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os,sys
 
-VERSION = '1.165'
+VERSION = '1.1615'
 DESCRIPTION = 'Shhh.'
 
 # Setting up

